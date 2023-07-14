@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "seminar407/1.0.0": {
+      "sem4071/1.0.0": {
         "runtime": {
-          "seminar407.dll": {}
+          "sem4071.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "seminar407/1.0.0": {
+    "sem4071/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
